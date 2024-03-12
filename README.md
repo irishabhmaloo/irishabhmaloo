@@ -20,10 +20,11 @@
 
 ![Rishabh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=irishabhmaloo&&theme=xcode)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irishabhmaloo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rahulbaghel6211" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irishabhmaloo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rahulbaghel6211" />
+</p>
 
 <p>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=irishabhmaloo&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=irishabhmaloo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
