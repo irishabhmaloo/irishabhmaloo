@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh 😄</h1>
 <h3 align="center">A passionate learner, and sometimes content creator 😛</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Winner+-+JPMC+Code+For+Good'23;Final+Year+-+CSE+%40+NIT+Surat;Always+ready+to+learn+new+things!;Sometimes+a+content+creator" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Winner+-+JPMC+Code+For+Good'23;Final+Year+-+CSE+%40+NIT+Surat;Always+ready+to+learn+new+things!;Sometimes+a+content+creator" alt="Typing SVG" /></a>
 <hr/>
 
 
