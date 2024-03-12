@@ -25,12 +25,7 @@
 
 
 <div style="display: flex; justify-content: center;">
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irishabhmaloo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="status" />
-  </div>
-  <div>
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=irishabhmaloo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  </div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irishabhmaloo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="status" />
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=irishabhmaloo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
-
 
